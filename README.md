@@ -2,10 +2,10 @@
 <table width="1000">
     <tr>
         <td width="500">
-			<h1 align="center">
-            	<img src="https://raw.githubusercontent.com/foxapp/foxapp/master/name.svg" alt="Ion Enache" />
+		<h1 align="center">
+            		<img src="https://raw.githubusercontent.com/foxapp/foxapp/master/name.svg" alt="Ion Enache" />
         	</h1>
-		</td>
+	</td>
         <td width="500" align="right"><a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="250" alt="Ion Enache's Dev Card"/></a></td>
     </tr>
 </table>
