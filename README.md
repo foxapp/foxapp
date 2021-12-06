@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="400" alt="Ion Enache's Dev Card"/></a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
