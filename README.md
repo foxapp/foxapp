@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="400" alt="Ion Enache's Dev Card"/></a>
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2033%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-767-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-938881%20lines%20of%20code-blue)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
