@@ -9,7 +9,7 @@ inputs:
     default: ${{ github.token }}
 
   WAKATIME_API_KEY:
-    description: 'Your Wakatime API Key'
+    description: '${{ secrets.WAKATIME_API_KEY }}
     required: true
 
   SHOW_OS:
