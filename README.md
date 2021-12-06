@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/foxapp/foxapp/master/name.svg" alt="Ion Enache" />
 </h1>
-
-<div style="width:50%">
-<a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="150" alt="Ion Enache's Dev Card"/></a>
-</div>
+<span style="width:50%">&nbsp</span>
+<span style="width:50%">
+<a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="250" alt="Ion Enache's Dev Card"/></a>
+</span>
 
 ## Hey! 👋
 I'm Ion, a 37 years old web developer from Moldova.
