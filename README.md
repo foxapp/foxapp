@@ -3,7 +3,7 @@
 </h1>
 
 <div style="width:50%">
-<a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="400" alt="Ion Enache's Dev Card"/></a>
+<a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="150" alt="Ion Enache's Dev Card"/></a>
 </div>
 
 ## Hey! 👋
