@@ -1,20 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/foxapp/foxapp/master/name.svg" alt="Ion Enache" />
+</h1>
 
-<!--
-**foxapp/foxapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="width:50%">
 <a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="400" alt="Ion Enache's Dev Card"/></a>
+</div>
+
+## Hey! 👋
+I'm Ion, a 37 years old web developer from Moldova.
+
+- 👥 Core team member at [@foxapp](https://github.com/foxapp)
+- 👥 Core team member at [@benlola](https://github.com/benlola)
+
+## Skills
+- 👨‍💻 PHP, Laravel, JavaScript, Python
+- ⚙️ React, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL
+- other: Scrapping with PHP or Python
+
+## Contact
+- [foxapp.net](https://www.foxapp.net)
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
