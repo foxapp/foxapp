@@ -29,7 +29,7 @@ I'm Ion, a 37 years old web developer from Moldova.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
 
@@ -74,16 +74,20 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Chisinau
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.44% 
+Blade Template           2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.25% 
+SCSS                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 5 hrs 13 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cms-gpedia               5 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -104,5 +108,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foxapp/foxapp/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
