@@ -29,7 +29,7 @@ I'm Ion, a 37 years old web developer from Moldova.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
 
@@ -111,5 +111,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foxapp/foxapp/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 19/12/2021
 <!--END_SECTION:waka-->
