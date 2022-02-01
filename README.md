@@ -1,18 +1,22 @@
-
-<table width="1000">
-    <tr>
-        <td width="500">
-		<h1 align="center">
-            		<img src="https://raw.githubusercontent.com/foxapp/foxapp/master/name.svg" alt="Ion Enache" />
-        	</h1>
-	</td>
-        <td width="500" align="right"><a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="250" alt="Ion Enache's Dev Card"/></a></td>
-    </tr>
-</table>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+	<h1>Ion Enache's Profile</h1>
+</div>
+<div align="center">
+	<a href="https://app.daily.dev/foxapp"><img src="https://github.com/foxapp/foxapp/blob/master/devcard.svg" width="250" alt="Ion Enache's Dev Card"/></a>
+</div>
 
 
-## Hey! 👋
+<div align="center">
+	
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxapp&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+	
+</div>
+
+
+## Hey! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 I'm Ion, a 37 years old web developer from Moldova.
+
 
 - 👥 Core team member at [@foxapp](https://github.com/foxapp)
 - 👥 Core team member at [@benlola](https://github.com/benlola)
@@ -26,7 +30,6 @@ I'm Ion, a 37 years old web developer from Moldova.
 
 ## Contact
 - [foxapp.net](https://www.foxapp.net)
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2016%20mins-blue)
