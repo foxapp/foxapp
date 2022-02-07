@@ -32,8 +32,6 @@ I'm Ion, a 37 years old web developer from Moldova.
 - [foxapp.net](https://www.foxapp.net)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -116,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foxapp/foxapp/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 18:39:56 UTC
+ Last Updated on 07/02/2022 18:40:54 UTC
 <!--END_SECTION:waka-->
