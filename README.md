@@ -15,7 +15,7 @@
 
 
 ## Hey! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-I'm Ion, a 37 years old web developer from Moldova.
+I'm Ion, a 38 years old web developer from Moldova.
 
 
 - 👥 Core team member at [@foxapp](https://github.com/foxapp)
