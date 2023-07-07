@@ -38,7 +38,7 @@ I'm Ion, a 38 years old web developer from Moldova.
 
 **🐱 My GitHub Data** 
 
-> 📦 705.4 kB Used in GitHub's Storage 
+> 📦 705.6 kB Used in GitHub's Storage 
  > 
 > 🏆 133 Contributions in the Year 2023
  > 
@@ -75,24 +75,16 @@ Sunday                   78 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Chisinau
 
 💬 Programming Languages: 
-PHP                      51 mins             ████████████████████████░   94.83 % 
-Log                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Plugins                  39 mins             ██████████████████░░░░░░░   72.24 % 
-foxapp-zetcasino-api     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-foxapp-delasport-api     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-foxapp-github-update-help0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-foxapp-custom-popup-trigg0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -112,5 +104,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foxapp/foxapp/master/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2023 18:36:01 UTC
+ Last Updated on 07/07/2023 18:37:44 UTC
 <!--END_SECTION:waka-->
