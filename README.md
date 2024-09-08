@@ -1,4 +1,5 @@
 <div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxapp&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1012&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
 
